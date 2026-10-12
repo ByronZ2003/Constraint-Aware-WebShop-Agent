@@ -1,0 +1,3810 @@
+[
+  {
+    "task_id": "B07DJJXGB5",
+    "instruction": "Find me scrubs & body treatments with tea tree, natural ingredients",
+    "instruction_attributes": [
+      "tea tree",
+      "natural ingredients"
+    ]
+  },
+  {
+    "task_id": "B08X2PKKB2",
+    "instruction": "Find me easy carry, high quality refillable containers with rose gold",
+    "instruction_attributes": [
+      "easy carry",
+      "high quality",
+      "rose gold"
+    ]
+  },
+  {
+    "task_id": "B07QXZL1K5",
+    "instruction": "Find me eco friendly cotton balls & swabs for sensitive skin",
+    "instruction_attributes": [
+      "eco friendly",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B08J3WFRBT",
+    "instruction": "Find me leak proof, bpa free, easy clean refillable containers with travel bottles",
+    "instruction_attributes": [
+      "leak proof",
+      "bpa free",
+      "easy clean",
+      "travel bottles"
+    ]
+  },
+  {
+    "task_id": "B08D4MH7XQ",
+    "instruction": "Find me oil free, clinically proven, paraben free scrubs & body treatments for dead skin",
+    "instruction_attributes": [
+      "oil free",
+      "clinically proven",
+      "paraben free",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B07K6TCDR9",
+    "instruction": "Find me animal testing hair loss products for natural hair, dry hair, hair growth",
+    "instruction_attributes": [
+      "animal testing",
+      "natural hair",
+      "dry hair",
+      "hair growth"
+    ]
+  },
+  {
+    "task_id": "B07N864Q64",
+    "instruction": "Find me easy apply, cruelty free, long lasting makeup palettes",
+    "instruction_attributes": [
+      "easy apply",
+      "cruelty free",
+      "long lasting"
+    ]
+  },
+  {
+    "task_id": "B084PCSG5H",
+    "instruction": "Find me non slip foot, hand & nail care for dry skin",
+    "instruction_attributes": [
+      "non slip",
+      "dry skin"
+    ]
+  },
+  {
+    "task_id": "B09JJ5W1N4",
+    "instruction": "Find me easy carry, high quality bags & cases",
+    "instruction_attributes": [
+      "easy carry",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B08W568RSB",
+    "instruction": "Find me leak proof, travel size, high quality refillable containers",
+    "instruction_attributes": [
+      "leak proof",
+      "travel size",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B09B321GS4",
+    "instruction": "Find me dermatologist tested, cruelty free body care",
+    "instruction_attributes": [
+      "dermatologist tested",
+      "cruelty free"
+    ]
+  },
+  {
+    "task_id": "B08LD3XCPQ",
+    "instruction": "Find me bpa free, easy clean tongue cleaners with storage case for bad breath",
+    "instruction_attributes": [
+      "bpa free",
+      "easy clean",
+      "storage case",
+      "bad breath"
+    ]
+  },
+  {
+    "task_id": "B005X7IXTK",
+    "instruction": "Find me anti perspirant, cruelty free deodorants & antiperspirants",
+    "instruction_attributes": [
+      "anti perspirant",
+      "cruelty free"
+    ]
+  },
+  {
+    "task_id": "B08DQWNJPQ",
+    "instruction": "Find me water resistant hair cutting tools for beauty salon, hair styling",
+    "instruction_attributes": [
+      "water resistant",
+      "beauty salon",
+      "hair styling"
+    ]
+  },
+  {
+    "task_id": "B00OYBADQ2",
+    "instruction": "Find me certified organic, non toxic, cruelty free scrubs & body treatments for dead skin",
+    "instruction_attributes": [
+      "certified organic",
+      "non toxic",
+      "cruelty free",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B094JTNPWK",
+    "instruction": "Find me anti aging scrubs & body treatments for fine lines, dry skin, dead skin",
+    "instruction_attributes": [
+      "anti aging",
+      "fine lines",
+      "dry skin",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B07BFLJQCX",
+    "instruction": "Find me hair loss products with coconut oil for hair loss",
+    "instruction_attributes": [
+      "coconut oil",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B004TSFEBY",
+    "instruction": "Find me cruelty free, high quality makeup brushes & tools for eye shadow",
+    "instruction_attributes": [
+      "cruelty free",
+      "high quality",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B08WG7VLQF",
+    "instruction": "Find me fragrance free styling products for dry hair",
+    "instruction_attributes": [
+      "fragrance free",
+      "dry hair"
+    ]
+  },
+  {
+    "task_id": "B096MM7XM4",
+    "instruction": "Find me double sided, easy clean, easy use hair extensions, wigs & accessories for hair extensions",
+    "instruction_attributes": [
+      "double sided",
+      "easy clean",
+      "easy use",
+      "hair extensions"
+    ]
+  },
+  {
+    "task_id": "B08PFRP4RN",
+    "instruction": "Find me easy carry, high quality hair extensions, wigs & accessories",
+    "instruction_attributes": [
+      "easy carry",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B08XQRDDT1",
+    "instruction": "Find me long lasting, easy apply, cruelty free lips makeup",
+    "instruction_attributes": [
+      "long lasting",
+      "easy apply",
+      "cruelty free"
+    ]
+  },
+  {
+    "task_id": "B09MW563KN",
+    "instruction": "Find me tongue cleaners for oral hygiene, fresh breath",
+    "instruction_attributes": [
+      "oral hygiene",
+      "fresh breath"
+    ]
+  },
+  {
+    "task_id": "B07CXTNVRJ",
+    "instruction": "Find me easy clean makeup palettes with stainless steel",
+    "instruction_attributes": [
+      "easy clean",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B08NB29KXH",
+    "instruction": "Find me high quality, easy carry shave & hair removal with stainless steel for hair removal, sensitive skin",
+    "instruction_attributes": [
+      "high quality",
+      "easy carry",
+      "stainless steel",
+      "hair removal",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B08XQWJX8P",
+    "instruction": "Find me long lasting men's fragrance with natural ingredients",
+    "instruction_attributes": [
+      "long lasting",
+      "natural ingredients"
+    ]
+  },
+  {
+    "task_id": "B089VWZB64",
+    "instruction": "Find me alcohol free, long lasting men's fragrance with natural ingredients",
+    "instruction_attributes": [
+      "alcohol free",
+      "long lasting",
+      "natural ingredients"
+    ]
+  },
+  {
+    "task_id": "B09MCF64RM",
+    "instruction": "Find me high quality bags & cases for eye shadow",
+    "instruction_attributes": [
+      "high quality",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B09D842QY4",
+    "instruction": "Find me easy clean bags & cases for eye shadow",
+    "instruction_attributes": [
+      "easy clean",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B09BW4S48B",
+    "instruction": "Find me makeup remover for sensitive skin, nail polish",
+    "instruction_attributes": [
+      "sensitive skin",
+      "nail polish"
+    ]
+  },
+  {
+    "task_id": "B09BWQZ68V",
+    "instruction": "Find me dermatologist tested foot, hand & nail care for sensitive skin",
+    "instruction_attributes": [
+      "dermatologist tested",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B09SHRV5JW",
+    "instruction": "Find me high quality hair loss products with seed oil for hair growth, hair loss",
+    "instruction_attributes": [
+      "high quality",
+      "seed oil",
+      "hair growth",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B098824K9T",
+    "instruction": "Find me easy use bathing accessories for dry hair",
+    "instruction_attributes": [
+      "easy use",
+      "dry hair"
+    ]
+  },
+  {
+    "task_id": "B0895PSD5P",
+    "instruction": "Find me hair cutting tools with stainless steel for hair cutting",
+    "instruction_attributes": [
+      "stainless steel",
+      "hair cutting"
+    ]
+  },
+  {
+    "task_id": "B07BB1FJV8",
+    "instruction": "Find me long lasting, high quality hair loss products",
+    "instruction_attributes": [
+      "long lasting",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B08DZ2593Y",
+    "instruction": "Find me clinically proven, teeth whitening toothpaste",
+    "instruction_attributes": [
+      "clinically proven",
+      "teeth whitening"
+    ]
+  },
+  {
+    "task_id": "B084VWH12H",
+    "instruction": "Find me mirrors with rose gold for hair removal",
+    "instruction_attributes": [
+      "rose gold",
+      "hair removal"
+    ]
+  },
+  {
+    "task_id": "B09L1G6H5Z",
+    "instruction": "Find me non toxic, easy use, high quality skin care tools with green tea",
+    "instruction_attributes": [
+      "non toxic",
+      "easy use",
+      "high quality",
+      "green tea"
+    ]
+  },
+  {
+    "task_id": "B09B9QLDKD",
+    "instruction": "Find me easy clean skin care sets & kits with stainless steel for dead skin",
+    "instruction_attributes": [
+      "easy clean",
+      "stainless steel",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B09G2F3HQ2",
+    "instruction": "Find me easy use hair extensions, wigs & accessories for hair extensions, natural hair",
+    "instruction_attributes": [
+      "easy use",
+      "hair extensions",
+      "natural hair"
+    ]
+  },
+  {
+    "task_id": "B08XH9JMTG",
+    "instruction": "Find me non slip, easy clean, easy use lip care for oral hygiene",
+    "instruction_attributes": [
+      "non slip",
+      "easy clean",
+      "easy use",
+      "oral hygiene"
+    ]
+  },
+  {
+    "task_id": "B09HPMWHM4",
+    "instruction": "Find me easy carry, high quality dental floss & picks",
+    "instruction_attributes": [
+      "easy carry",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B01N1T77OM",
+    "instruction": "Find me anti perspirant, travel size, long lasting deodorants & antiperspirants",
+    "instruction_attributes": [
+      "anti perspirant",
+      "travel size",
+      "long lasting"
+    ]
+  },
+  {
+    "task_id": "B09MYFGDY5",
+    "instruction": "Find me eco friendly, easy use, high quality orthodontic supplies",
+    "instruction_attributes": [
+      "eco friendly",
+      "easy use",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B09Q55JLCS",
+    "instruction": "Find me teeth whitening, easy use children's dental care",
+    "instruction_attributes": [
+      "teeth whitening",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B09NSJX1WC",
+    "instruction": "Find me high quality piercing & tattoo supplies with stainless steel",
+    "instruction_attributes": [
+      "high quality",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B005P0T90C",
+    "instruction": "Find me cruelty free, long lasting, high quality hair coloring products for permanent hair",
+    "instruction_attributes": [
+      "cruelty free",
+      "long lasting",
+      "high quality",
+      "permanent hair"
+    ]
+  },
+  {
+    "task_id": "B08HVH2DZF",
+    "instruction": "Find me easy use, high quality piercing & tattoo supplies with stainless steel",
+    "instruction_attributes": [
+      "easy use",
+      "high quality",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B08N16XC83",
+    "instruction": "Find me double sided, easy use makeup remover",
+    "instruction_attributes": [
+      "double sided",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B09QMJ5KQH",
+    "instruction": "Find me high quality hair extensions, wigs & accessories for hair extensions, synthetic hair",
+    "instruction_attributes": [
+      "high quality",
+      "hair extensions",
+      "synthetic hair"
+    ]
+  },
+  {
+    "task_id": "B09GF68QPJ",
+    "instruction": "Find me easy use bathing accessories with long handle for dead skin",
+    "instruction_attributes": [
+      "easy use",
+      "long handle",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B082WKKPDH",
+    "instruction": "Find me hair loss products for hair growth, hair loss, natural hair",
+    "instruction_attributes": [
+      "hair growth",
+      "hair loss",
+      "natural hair"
+    ]
+  },
+  {
+    "task_id": "B093HFSQ3B",
+    "instruction": "Find me high quality hair extensions, wigs & accessories for hair loss",
+    "instruction_attributes": [
+      "high quality",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B08FX48B6X",
+    "instruction": "Find me anti aging skin care tools for sensitive skin",
+    "instruction_attributes": [
+      "anti aging",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B09S3NVLCV",
+    "instruction": "Find me toothpaste with natural ingredients for fresh breath, bad breath, sensitive teeth",
+    "instruction_attributes": [
+      "natural ingredients",
+      "fresh breath",
+      "bad breath",
+      "sensitive teeth"
+    ]
+  },
+  {
+    "task_id": "B09GP6G1MT",
+    "instruction": "Find me high quality, non slip hair cutting tools with stainless steel for hair cutting",
+    "instruction_attributes": [
+      "high quality",
+      "non slip",
+      "stainless steel",
+      "hair cutting"
+    ]
+  },
+  {
+    "task_id": "B07FLKB8CV",
+    "instruction": "Find me hair loss products with natural ingredients for hair styling",
+    "instruction_attributes": [
+      "natural ingredients",
+      "hair styling"
+    ]
+  },
+  {
+    "task_id": "B087TR48KK",
+    "instruction": "Find me non slip shave & hair removal with stainless steel",
+    "instruction_attributes": [
+      "non slip",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B083WSK6F2",
+    "instruction": "Find me double sided bathing accessories for dead skin, dry skin",
+    "instruction_attributes": [
+      "double sided",
+      "dead skin",
+      "dry skin"
+    ]
+  },
+  {
+    "task_id": "B09NSMMHTY",
+    "instruction": "Find me long lasting, easy use, high quality makeup palettes for eye shadow",
+    "instruction_attributes": [
+      "long lasting",
+      "easy use",
+      "high quality",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B09NRWND4H",
+    "instruction": "Find me high quality, easy use makeup palettes with stainless steel",
+    "instruction_attributes": [
+      "high quality",
+      "easy use",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B0936C6MBM",
+    "instruction": "Find me fragrance free women's fragrance for sensitive skin",
+    "instruction_attributes": [
+      "fragrance free",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B09PY89B1S",
+    "instruction": "Find me hair loss products for hair growth, hair loss",
+    "instruction_attributes": [
+      "hair growth",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B078FL4788",
+    "instruction": "Find me hair treatment oils for hair growth, hair loss",
+    "instruction_attributes": [
+      "hair growth",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B09M7M1YB3",
+    "instruction": "Find me non toxic, easy clean refillable containers",
+    "instruction_attributes": [
+      "non toxic",
+      "easy clean"
+    ]
+  },
+  {
+    "task_id": "B08BV94TBP",
+    "instruction": "Find me bath & bathing accessories with long handle for dry skin",
+    "instruction_attributes": [
+      "long handle",
+      "dry skin"
+    ]
+  },
+  {
+    "task_id": "B09GW3N8TF",
+    "instruction": "Find me teeth whitening toothpaste with coconut oil for bad breath",
+    "instruction_attributes": [
+      "teeth whitening",
+      "coconut oil",
+      "bad breath"
+    ]
+  },
+  {
+    "task_id": "B07B6DVG41",
+    "instruction": "Find me sulfate free, paraben free shampoo & conditioner with hyaluronic acid, coconut oil for damaged hair, hair growth, hair loss",
+    "instruction_attributes": [
+      "sulfate free",
+      "paraben free",
+      "hyaluronic acid",
+      "coconut oil",
+      "damaged hair",
+      "hair growth",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B09RFDP1C3",
+    "instruction": "Find me cruelty free skin care sets & kits with green tea, hyaluronic acid, natural ingredients",
+    "instruction_attributes": [
+      "cruelty free",
+      "green tea",
+      "hyaluronic acid",
+      "natural ingredients"
+    ]
+  },
+  {
+    "task_id": "B087Y28XLM",
+    "instruction": "Find me animal testing, paraben free body care for dry skin",
+    "instruction_attributes": [
+      "animal testing",
+      "paraben free",
+      "dry skin"
+    ]
+  },
+  {
+    "task_id": "B09G9V3G1N",
+    "instruction": "Find me easy carry, easy use sets fragrance",
+    "instruction_attributes": [
+      "easy carry",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B09QMGM5S3",
+    "instruction": "Find me easy clean, easy use makeup remover",
+    "instruction_attributes": [
+      "easy clean",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B08RCVFMQ7",
+    "instruction": "Find me highly pigmented, long lasting makeup palettes for eye shadow",
+    "instruction_attributes": [
+      "highly pigmented",
+      "long lasting",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B09CTMLF8X",
+    "instruction": "Find me anti aging makeup remover for sensitive skin",
+    "instruction_attributes": [
+      "anti aging",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B09JNRTFGQ",
+    "instruction": "Find me high quality, travel size foot, hand & nail care with stainless steel",
+    "instruction_attributes": [
+      "high quality",
+      "travel size",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B09R4RJSFP",
+    "instruction": "Find me hair masks for dry hair, hair treatment, natural hair, hair growth",
+    "instruction_attributes": [
+      "dry hair",
+      "hair treatment",
+      "natural hair",
+      "hair growth"
+    ]
+  },
+  {
+    "task_id": "B09NLZFMRG",
+    "instruction": "Find me easy clean bathing accessories for dead skin",
+    "instruction_attributes": [
+      "easy clean",
+      "dead skin"
+    ]
+  },
+  {
+    "task_id": "B0892Y9F83",
+    "instruction": "Find me easy use, high quality makeup remover with stainless steel",
+    "instruction_attributes": [
+      "easy use",
+      "high quality",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B09P7XL5RF",
+    "instruction": "Find me easy use hair coloring products for hair dye",
+    "instruction_attributes": [
+      "easy use",
+      "hair dye"
+    ]
+  },
+  {
+    "task_id": "B01LM6W7Z6",
+    "instruction": "Find me eyes makeup for nail polish, nail art",
+    "instruction_attributes": [
+      "nail polish",
+      "nail art"
+    ]
+  },
+  {
+    "task_id": "B09FYBZNQL",
+    "instruction": "Find me hair masks for damaged hair, hair treatment, dry hair",
+    "instruction_attributes": [
+      "damaged hair",
+      "hair treatment",
+      "dry hair"
+    ]
+  },
+  {
+    "task_id": "B08532HWVM",
+    "instruction": "Find me leak proof refillable containers with travel bottles",
+    "instruction_attributes": [
+      "leak proof",
+      "travel bottles"
+    ]
+  },
+  {
+    "task_id": "B09JT3Z6JV",
+    "instruction": "Find me high quality, teeth whitening children's dental care with quality materials for sensitive teeth",
+    "instruction_attributes": [
+      "high quality",
+      "teeth whitening",
+      "quality materials",
+      "sensitive teeth"
+    ]
+  },
+  {
+    "task_id": "B08X4YD5WH",
+    "instruction": "Find me high quality hair extensions, wigs & accessories for hair loss",
+    "instruction_attributes": [
+      "high quality",
+      "hair loss"
+    ]
+  },
+  {
+    "task_id": "B08Q42DTN1",
+    "instruction": "Find me oil free, plant based, paraben free shampoo & conditioner",
+    "instruction_attributes": [
+      "oil free",
+      "plant based",
+      "paraben free"
+    ]
+  },
+  {
+    "task_id": "B08ZKDQPZ3",
+    "instruction": "Find me easy use body care for hair extensions",
+    "instruction_attributes": [
+      "easy use",
+      "hair extensions"
+    ]
+  },
+  {
+    "task_id": "B0065YIB8I",
+    "instruction": "Find me easy use, clinically proven, paraben free body care for sensitive skin",
+    "instruction_attributes": [
+      "easy use",
+      "clinically proven",
+      "paraben free",
+      "sensitive skin"
+    ]
+  },
+  {
+    "task_id": "B08G14B779",
+    "instruction": "Find me high quality bathing accessories for dry hair",
+    "instruction_attributes": [
+      "high quality",
+      "dry hair"
+    ]
+  },
+  {
+    "task_id": "B09CV5GPJ2",
+    "instruction": "Find me travel size, high quality skin care sets & kits",
+    "instruction_attributes": [
+      "travel size",
+      "high quality"
+    ]
+  },
+  {
+    "task_id": "B0927BXC6B",
+    "instruction": "Find me high quality, easy carry eyes makeup for eye shadow",
+    "instruction_attributes": [
+      "high quality",
+      "easy carry",
+      "eye shadow"
+    ]
+  },
+  {
+    "task_id": "B09LM3H2F5",
+    "instruction": "Find me hand crafted candy & chocolate for gift set, valentine day",
+    "instruction_attributes": [
+      "hand crafted",
+      "gift set",
+      "valentine day"
+    ]
+  },
+  {
+    "task_id": "B097F54DT8",
+    "instruction": "Find me fully cooked, freeze dried, shelf stable, ready eat fresh meal kits",
+    "instruction_attributes": [
+      "fully cooked",
+      "freeze dried",
+      "shelf stable",
+      "ready eat"
+    ]
+  },
+  {
+    "task_id": "B086VP8Q9T",
+    "instruction": "Find me artificial ingredients, non gmo, gluten free meat & seafood with quality ingredients",
+    "instruction_attributes": [
+      "artificial ingredients",
+      "non gmo",
+      "gluten free",
+      "quality ingredients"
+    ]
+  },
+  {
+    "task_id": "B00B04344Y",
+    "instruction": "Find me rich creamy, ready use deli & prepared foods",
+    "instruction_attributes": [
+      "rich creamy",
+      "ready use"
+    ]
+  },
+  {
+    "task_id": "B09NX4RGK7",
+    "instruction": "Find me plant based meat & seafood with artificial flavors",
+    "instruction_attributes": [
+      "plant based",
+      "artificial flavors"
+    ]
+  },
+  {
+    "task_id": "B00N6Y8ORI",
+    "instruction": "Find me keto friendly, easy prepare, low carb frozen with dietary fiber, artificial flavors",
+    "instruction_attributes": [
+      "keto friendly",
+      "easy prepare",
+      "low carb",
+      "dietary fiber",
+      "artificial flavors"
+    ]
+  },
+  {
+    "task_id": "B003I567W4",
+    "instruction": "Find me gluten free, protein serving pantry staples",
+    "instruction_attributes": [
+      "gluten free",
+      "protein serving"
+    ]
+  },
+  {
+    "task_id": "B00HWHS3ZS",
+    "instruction": "Find me fat free applesauce & fruit cups with source vitamin",
+    "instruction_attributes": [
+      "fat free",
+      "source vitamin"
+    ]
+  },
+  {
+    "task_id": "B07XRDD75B",
+    "instruction": "Find me certified organic, high protein, gluten free breakfast foods with dietary fiber",
+    "instruction_attributes": [
+      "certified organic",
+      "high protein",
+      "gluten free",
+      "dietary fiber"
+    ]
+  },
+  {
+    "task_id": "B00CQ7PQYU",
+    "instruction": "Find me usda organic, gluten free cream cheeses",
+    "instruction_attributes": [
+      "usda organic",
+      "gluten free"
+    ]
+  },
+  {
+    "task_id": "B07VQJM594",
+    "instruction": "Find me plant based meat substitutes with resealable bag",
+    "instruction_attributes": [
+      "plant based",
+      "resealable bag"
+    ]
+  },
+  {
+    "task_id": "B015PWVRPO",
+    "instruction": "Find me non gmo dried fruits & raisins with dietary fiber",
+    "instruction_attributes": [
+      "non gmo",
+      "dietary fiber"
+    ]
+  },
+  {
+    "task_id": "B000YG3DWC",
+    "instruction": "Find me protein serving meat substitutes with quality ingredients",
+    "instruction_attributes": [
+      "protein serving",
+      "quality ingredients"
+    ]
+  },
+  {
+    "task_id": "B08LQZ5BRC",
+    "instruction": "Find me plant based, dairy free, gluten free breakfast foods",
+    "instruction_attributes": [
+      "plant based",
+      "dairy free",
+      "gluten free"
+    ]
+  },
+  {
+    "task_id": "B08P28NXH3",
+    "instruction": "Find me grain free, artificial ingredients, low calorie, high protein, low carb, non gmo, gluten free puffed snacks",
+    "instruction_attributes": [
+      "grain free",
+      "artificial ingredients",
+      "low calorie",
+      "high protein",
+      "low carb",
+      "non gmo",
+      "gluten free"
+    ]
+  },
+  {
+    "task_id": "B004PCJTR4",
+    "instruction": "Find me old fashioned, protein serving, keto friendly meat substitutes",
+    "instruction_attributes": [
+      "old fashioned",
+      "protein serving",
+      "keto friendly"
+    ]
+  },
+  {
+    "task_id": "B085RRL27J",
+    "instruction": "Find me soy free, plant based, dairy free, non gmo, gluten free wasabi peas with artificial flavors",
+    "instruction_attributes": [
+      "soy free",
+      "plant based",
+      "dairy free",
+      "non gmo",
+      "gluten free",
+      "artificial flavors"
+    ]
+  },
+  {
+    "task_id": "B07HYF111T",
+    "instruction": "Find me low carb, grain free, chocolate covered, low sugar, gluten free, dairy free granola & nutrition bars with simple ingredients",
+    "instruction_attributes": [
+      "low carb",
+      "grain free",
+      "chocolate covered",
+      "low sugar",
+      "gluten free",
+      "dairy free",
+      "simple ingredients"
+    ]
+  },
+  {
+    "task_id": "B08W2XSDST",
+    "instruction": "Find me fat free puffed snacks with resealable bag",
+    "instruction_attributes": [
+      "fat free",
+      "resealable bag"
+    ]
+  },
+  {
+    "task_id": "B084GWS59P",
+    "instruction": "Find me plant based, high protein, non gmo, gluten free meat substitutes",
+    "instruction_attributes": [
+      "plant based",
+      "high protein",
+      "non gmo",
+      "gluten free"
+    ]
+  },
+  {
+    "task_id": "B08BPTT8MX",
+    "instruction": "Find me non gmo, gluten free food & beverage gifts",
+    "instruction_attributes": [
+      "non gmo",
+      "gluten free"
+    ]
+  },
+  {
+    "task_id": "B097DSB79F",
+    "instruction": "Find me protein serving meat snacks with natural ingredients, artificial flavors",
+    "instruction_attributes": [
+      "protein serving",
+      "natural ingredients",
+      "artificial flavors"
+    ]
+  },
+  {
+    "task_id": "B07TVMCK3F",
+    "instruction": "Find me toothpicks for baby shower, cupcake picks, birthday party",
+    "instruction_attributes": [
+      "baby shower",
+      "cupcake picks",
+      "birthday party"
+    ]
+  },
+  {
+    "task_id": "B09PNJC838",
+    "instruction": "Find me toothpicks for valentine day, baby shower",
+    "instruction_attributes": [
+      "valentine day",
+      "baby shower"
+    ]
+  },
+  {
+    "task_id": "B07FYPSNH8",
+    "instruction": "Find me nut free, soy free, plant based, lactose free, low sugar, gluten free, shelf stable, dairy free, non gmo beverages with artificial colors",
+    "instruction_attributes": [
+      "nut free",
+      "soy free",
+      "plant based",
+      "lactose free",
+      "low sugar",
+      "gluten free",
+      "shelf stable",
+      "dairy free",
+      "non gmo",
+      "artificial colors"
+    ]
+  },
+  {
+    "task_id": "B01N37FSYX",
+    "instruction": "Find me non gmo, gluten free, easy use cheeses with natural ingredients",
+    "instruction_attributes": [
+      "non gmo",
+      "gluten free",
+      "easy use",
+      "natural ingredients"
+    ]
+  },
+  {
+    "task_id": "B09DBYG4XD",
+    "instruction": "Find me gmo free, gluten free, kosher certified, non gmo snack food gifts",
+    "instruction_attributes": [
+      "gmo free",
+      "gluten free",
+      "kosher certified",
+      "non gmo"
+    ]
+  },
+  {
+    "task_id": "B002C56QX6",
+    "instruction": "Find me gluten free snack crackers with 0g trans",
+    "instruction_attributes": [
+      "gluten free",
+      "0g trans"
+    ]
+  },
+  {
+    "task_id": "B07F1JDWJP",
+    "instruction": "Find me non gmo, keto friendly milks & creams",
+    "instruction_attributes": [
+      "non gmo",
+      "keto friendly"
+    ]
+  },
+  {
+    "task_id": "B07GH3J1Z1",
+    "instruction": "Find me blu ray, ultra hd blu-ray players & recorders",
+    "instruction_attributes": [
+      "blu ray",
+      "ultra hd"
+    ]
+  },
+  {
+    "task_id": "B07YN72RH4",
+    "instruction": "Find me high resolution multiroom wireless systems with usb port",
+    "instruction_attributes": [
+      "high resolution",
+      "usb port"
+    ]
+  },
+  {
+    "task_id": "B09LSKQF8C",
+    "instruction": "Find me dual band streaming media players with quad core",
+    "instruction_attributes": [
+      "dual band",
+      "quad core"
+    ]
+  },
+  {
+    "task_id": "B08QSNM69H",
+    "instruction": "Find me blu ray, gold plated, high speed, heavy duty hdmi cables",
+    "instruction_attributes": [
+      "blu ray",
+      "gold plated",
+      "high speed",
+      "heavy duty"
+    ]
+  },
+  {
+    "task_id": "B08YWKVNLT",
+    "instruction": "Find me easy use, high power binoculars & scopes with carrying case for bird watching",
+    "instruction_attributes": [
+      "easy use",
+      "high power",
+      "carrying case",
+      "bird watching"
+    ]
+  },
+  {
+    "task_id": "B089ZJ7H1N",
+    "instruction": "Find me heavy duty power protection for wireless charging",
+    "instruction_attributes": [
+      "heavy duty",
+      "wireless charging"
+    ]
+  },
+  {
+    "task_id": "B09BKMRMDV",
+    "instruction": "Find me blu ray, plug play hdmi cables",
+    "instruction_attributes": [
+      "blu ray",
+      "plug play"
+    ]
+  },
+  {
+    "task_id": "B07ZYVWCZ7",
+    "instruction": "Find me heavy duty television accessories with tempered glass",
+    "instruction_attributes": [
+      "heavy duty",
+      "tempered glass"
+    ]
+  },
+  {
+    "task_id": "B08YQKXLVG",
+    "instruction": "Find me high power, non slip binoculars & scopes for bird watching",
+    "instruction_attributes": [
+      "high power",
+      "non slip",
+      "bird watching"
+    ]
+  },
+  {
+    "task_id": "B09QMPV75P",
+    "instruction": "Find me high speed flashes with usb port",
+    "instruction_attributes": [
+      "high speed",
+      "usb port"
+    ]
+  },
+  {
+    "task_id": "B00VI88X7U",
+    "instruction": "Find me power amplifier, hands free av receivers & amplifiers with usb port",
+    "instruction_attributes": [
+      "power amplifier",
+      "hands free",
+      "usb port"
+    ]
+  },
+  {
+    "task_id": "B08YNRQSBL",
+    "instruction": "Find me heavy duty, high definition binoculars & scopes for bird watching",
+    "instruction_attributes": [
+      "heavy duty",
+      "high definition",
+      "bird watching"
+    ]
+  },
+  {
+    "task_id": "B096L3FNMR",
+    "instruction": "Find me power amplifier av receivers & amplifiers for wireless bluetooth",
+    "instruction_attributes": [
+      "power amplifier",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B09B4YH4RG",
+    "instruction": "Find me plug play soundbars with usb port",
+    "instruction_attributes": [
+      "plug play",
+      "usb port"
+    ]
+  },
+  {
+    "task_id": "B074PBDJG9",
+    "instruction": "Find me high performance, high speed, easy install surround sound systems",
+    "instruction_attributes": [
+      "high performance",
+      "high speed",
+      "easy install"
+    ]
+  },
+  {
+    "task_id": "B09Q6CZ59K",
+    "instruction": "Find me plug play, easy use turntables",
+    "instruction_attributes": [
+      "plug play",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B09PKHJN8P",
+    "instruction": "Find me light weight, easy carry underwater photography with aluminum alloy",
+    "instruction_attributes": [
+      "light weight",
+      "easy carry",
+      "aluminum alloy"
+    ]
+  },
+  {
+    "task_id": "B083HXHG75",
+    "instruction": "Find me heavy duty video glasses with glass screen, tempered glass, case cover",
+    "instruction_attributes": [
+      "heavy duty",
+      "glass screen",
+      "tempered glass",
+      "case cover"
+    ]
+  },
+  {
+    "task_id": "B097PCJMP5",
+    "instruction": "Find me high speed, easy use printers & scanners",
+    "instruction_attributes": [
+      "high speed",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B0932C11QQ",
+    "instruction": "Find me power amplifier, easy use receivers & amplifiers with aluminum alloy",
+    "instruction_attributes": [
+      "power amplifier",
+      "easy use",
+      "aluminum alloy"
+    ]
+  },
+  {
+    "task_id": "B004HO58MA",
+    "instruction": "Find me high speed digital cameras with optical zoom",
+    "instruction_attributes": [
+      "high speed",
+      "optical zoom"
+    ]
+  },
+  {
+    "task_id": "B07YCGBPRD",
+    "instruction": "Find me easy install screen protectors with tempered glass",
+    "instruction_attributes": [
+      "easy install",
+      "tempered glass"
+    ]
+  },
+  {
+    "task_id": "B08GKZNTHK",
+    "instruction": "Find me non slip mounts with aluminum alloy",
+    "instruction_attributes": [
+      "non slip",
+      "aluminum alloy"
+    ]
+  },
+  {
+    "task_id": "B01MQH5VGR",
+    "instruction": "Find me gold plated, high speed hdmi cables",
+    "instruction_attributes": [
+      "gold plated",
+      "high speed"
+    ]
+  },
+  {
+    "task_id": "B09B7551X2",
+    "instruction": "Find me easy install, compatible apple wearable technology",
+    "instruction_attributes": [
+      "easy install",
+      "compatible apple"
+    ]
+  },
+  {
+    "task_id": "B09RF2DLZX",
+    "instruction": "Find me noise cancelling bluetooth speakers for stereo sound, wireless bluetooth",
+    "instruction_attributes": [
+      "noise cancelling",
+      "stereo sound",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B09R1T2P6V",
+    "instruction": "Find me compatible apple wearable technology with stainless steel",
+    "instruction_attributes": [
+      "compatible apple",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B0813C1C4J",
+    "instruction": "Find me heavy duty signal boosters for 4g lte",
+    "instruction_attributes": [
+      "heavy duty",
+      "4g lte"
+    ]
+  },
+  {
+    "task_id": "B00SYVE3CI",
+    "instruction": "Find me quick release, easy install mounts",
+    "instruction_attributes": [
+      "quick release",
+      "easy install"
+    ]
+  },
+  {
+    "task_id": "B089R7JZHK",
+    "instruction": "Find me easy use vcrs with aaa batteries",
+    "instruction_attributes": [
+      "easy use",
+      "aaa batteries"
+    ]
+  },
+  {
+    "task_id": "B09J2QLPR1",
+    "instruction": "Find me hands free headphones for wireless bluetooth",
+    "instruction_attributes": [
+      "hands free",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B07KK7G5YJ",
+    "instruction": "Find me light weight, high resolution, easy carry underwater photography for digital photography",
+    "instruction_attributes": [
+      "light weight",
+      "high resolution",
+      "easy carry",
+      "digital photography"
+    ]
+  },
+  {
+    "task_id": "B07SRS3MXP",
+    "instruction": "Find me high resolution cd players & recorders for 4g lte",
+    "instruction_attributes": [
+      "high resolution",
+      "4g lte"
+    ]
+  },
+  {
+    "task_id": "B09DVS5MQW",
+    "instruction": "Find me high power bluetooth speakers for wireless bluetooth",
+    "instruction_attributes": [
+      "high power",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B095PF5BXT",
+    "instruction": "Find me high definition, easy install lenses with tempered glass, glass screen",
+    "instruction_attributes": [
+      "high definition",
+      "easy install",
+      "tempered glass",
+      "glass screen"
+    ]
+  },
+  {
+    "task_id": "B08M5BYQN9",
+    "instruction": "Find me plug play, easy install, high definition car accessories",
+    "instruction_attributes": [
+      "plug play",
+      "easy install",
+      "high definition"
+    ]
+  },
+  {
+    "task_id": "B07TB37SG5",
+    "instruction": "Find me light weight, high resolution, easy carry underwater photography for digital photography",
+    "instruction_attributes": [
+      "light weight",
+      "high resolution",
+      "easy carry",
+      "digital photography"
+    ]
+  },
+  {
+    "task_id": "B07VVVDRCX",
+    "instruction": "Find me compatible apple online game services with case cover",
+    "instruction_attributes": [
+      "compatible apple",
+      "case cover"
+    ]
+  },
+  {
+    "task_id": "B07JMXLXNY",
+    "instruction": "Find me screen protectors with tempered glass, glass screen",
+    "instruction_attributes": [
+      "tempered glass",
+      "glass screen"
+    ]
+  },
+  {
+    "task_id": "B07X3TZQ27",
+    "instruction": "Find me 1080p hd video surveillance for motion detection",
+    "instruction_attributes": [
+      "1080p hd",
+      "motion detection"
+    ]
+  },
+  {
+    "task_id": "B09SWLPPVQ",
+    "instruction": "Find me dual band, high speed signal boosters",
+    "instruction_attributes": [
+      "dual band",
+      "high speed"
+    ]
+  },
+  {
+    "task_id": "B07VHJY9KJ",
+    "instruction": "Find me easy use, high performance soundbars for wireless bluetooth",
+    "instruction_attributes": [
+      "easy use",
+      "high performance",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B07THL8PP1",
+    "instruction": "Find me high speed chargers for wireless charging",
+    "instruction_attributes": [
+      "high speed",
+      "wireless charging"
+    ]
+  },
+  {
+    "task_id": "B07GFS3MNT",
+    "instruction": "Find me high resolution, easy install video surveillance for motion detection",
+    "instruction_attributes": [
+      "high resolution",
+      "easy install",
+      "motion detection"
+    ]
+  },
+  {
+    "task_id": "B08W874R8Z",
+    "instruction": "Find me ultra hd, 1080p hd digital cameras for stereo sound",
+    "instruction_attributes": [
+      "ultra hd",
+      "1080p hd",
+      "stereo sound"
+    ]
+  },
+  {
+    "task_id": "B09MHLS36W",
+    "instruction": "Find me high speed, high definition projectors",
+    "instruction_attributes": [
+      "high speed",
+      "high definition"
+    ]
+  },
+  {
+    "task_id": "B09D42HCTN",
+    "instruction": "Find me 1080p hd, high definition projectors",
+    "instruction_attributes": [
+      "1080p hd",
+      "high definition"
+    ]
+  },
+  {
+    "task_id": "B08Q2YQ35N",
+    "instruction": "Find me binoculars & scopes with aluminum alloy for bird watching",
+    "instruction_attributes": [
+      "aluminum alloy",
+      "bird watching"
+    ]
+  },
+  {
+    "task_id": "B09P1HJ32G",
+    "instruction": "Find me high definition binoculars & scopes for bird watching",
+    "instruction_attributes": [
+      "high definition",
+      "bird watching"
+    ]
+  },
+  {
+    "task_id": "B014C9KQLM",
+    "instruction": "Find me hands free flashes with usb port",
+    "instruction_attributes": [
+      "hands free",
+      "usb port"
+    ]
+  },
+  {
+    "task_id": "B08VH8MZZ6",
+    "instruction": "Find me high speed, 1080p hd, high performance video surveillance for motion detection",
+    "instruction_attributes": [
+      "high speed",
+      "1080p hd",
+      "high performance",
+      "motion detection"
+    ]
+  },
+  {
+    "task_id": "B08QRHVS6N",
+    "instruction": "Find me quick release, hands free iphone accessories for wireless charging",
+    "instruction_attributes": [
+      "quick release",
+      "hands free",
+      "wireless charging"
+    ]
+  },
+  {
+    "task_id": "B083ZK4NRS",
+    "instruction": "Find me screen protectors with tempered glass, glass screen",
+    "instruction_attributes": [
+      "tempered glass",
+      "glass screen"
+    ]
+  },
+  {
+    "task_id": "B09NFG3XXY",
+    "instruction": "Find me high speed, plug play mac",
+    "instruction_attributes": [
+      "high speed",
+      "plug play"
+    ]
+  },
+  {
+    "task_id": "B088LZPNG6",
+    "instruction": "Find me screen protectors with tempered glass, glass screen",
+    "instruction_attributes": [
+      "tempered glass",
+      "glass screen"
+    ]
+  },
+  {
+    "task_id": "B0982W8RKZ",
+    "instruction": "Find me mac with glass screen, tempered glass",
+    "instruction_attributes": [
+      "glass screen",
+      "tempered glass"
+    ]
+  },
+  {
+    "task_id": "B09P57ZKGP",
+    "instruction": "Find me high performance, high speed flashes",
+    "instruction_attributes": [
+      "high performance",
+      "high speed"
+    ]
+  },
+  {
+    "task_id": "B06XQYN77L",
+    "instruction": "Find me plug play, light weight, hands free bluetooth headsets",
+    "instruction_attributes": [
+      "plug play",
+      "light weight",
+      "hands free"
+    ]
+  },
+  {
+    "task_id": "B01MTYK2T9",
+    "instruction": "Find me quick release tripods & monopods with aluminum alloy",
+    "instruction_attributes": [
+      "quick release",
+      "aluminum alloy"
+    ]
+  },
+  {
+    "task_id": "B07H5GWRL4",
+    "instruction": "Find me fast charging, high speed virtual reality",
+    "instruction_attributes": [
+      "fast charging",
+      "high speed"
+    ]
+  },
+  {
+    "task_id": "B09NDGV4PL",
+    "instruction": "Find me light weight, hands free, easy carry bluetooth speakers for wireless bluetooth",
+    "instruction_attributes": [
+      "light weight",
+      "hands free",
+      "easy carry",
+      "wireless bluetooth"
+    ]
+  },
+  {
+    "task_id": "B0924PKLQ4",
+    "instruction": "Find me wall mounted, long lasting, easy use mounts",
+    "instruction_attributes": [
+      "wall mounted",
+      "long lasting",
+      "easy use"
+    ]
+  },
+  {
+    "task_id": "B098SV78BW",
+    "instruction": "Find me heavy duty iphone accessories for wireless charging",
+    "instruction_attributes": [
+      "heavy duty",
+      "wireless charging"
+    ]
+  },
+  {
+    "task_id": "B08T84R7V2",
+    "instruction": "Find me men's fashion sneakers with lace closure, rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "lace closure",
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B082MT9162",
+    "instruction": "Find me anti slip men's loafers & slip-ons with rubber sole",
+    "instruction_attributes": [
+      "anti slip",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07HP6LVRS",
+    "instruction": "Find me men's loafers & slip-ons with rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07S7HDC88",
+    "instruction": "Find me slip resistant, non slip men's loafers & slip-ons with rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "slip resistant",
+      "non slip",
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07NZ173GY",
+    "instruction": "Find me day comfort men's sandals with rubber sole",
+    "instruction_attributes": [
+      "day comfort",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07L6DV555",
+    "instruction": "Find me men's boots with lace closure, rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "lace closure",
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07RPMCNKD",
+    "instruction": "Find me light weight, non slip women's outdoor shoes with rubber sole, soft material, memory foam",
+    "instruction_attributes": [
+      "light weight",
+      "non slip",
+      "rubber sole",
+      "soft material",
+      "memory foam"
+    ]
+  },
+  {
+    "task_id": "B07XDRVVYM",
+    "instruction": "Find me women's sandals with arch support, rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "arch support",
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B092VDY5MF",
+    "instruction": "Find me women's pumps with closed toe, rubber sole",
+    "instruction_attributes": [
+      "closed toe",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B09HMCKZQW",
+    "instruction": "Find me knee high, non slip women's pumps with closed toe, leather sole, ankle strap, arch support, rubber outsole",
+    "instruction_attributes": [
+      "knee high",
+      "non slip",
+      "closed toe",
+      "leather sole",
+      "ankle strap",
+      "arch support",
+      "rubber outsole"
+    ]
+  },
+  {
+    "task_id": "B09QRV4YLR",
+    "instruction": "Find me non slip women's fashion sneakers with ethylene vinyl, vinyl acetate",
+    "instruction_attributes": [
+      "non slip",
+      "ethylene vinyl",
+      "vinyl acetate"
+    ]
+  },
+  {
+    "task_id": "B09QPX97VW",
+    "instruction": "Find me women's pumps with high heel, short sleeve",
+    "instruction_attributes": [
+      "high heel",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B09GL561XH",
+    "instruction": "Find me officially licensed, machine wash men's t-shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "officially licensed",
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B07F2G93BJ",
+    "instruction": "Find me slim fit, machine wash men's casual button-down shirts with button closure, long sleeve",
+    "instruction_attributes": [
+      "slim fit",
+      "machine wash",
+      "button closure",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B085WQKRRJ",
+    "instruction": "Find me slim fit, wash cold, hand wash, machine wash men's henleys with short sleeve, regular fit",
+    "instruction_attributes": [
+      "slim fit",
+      "wash cold",
+      "hand wash",
+      "machine wash",
+      "short sleeve",
+      "regular fit"
+    ]
+  },
+  {
+    "task_id": "B07HRFSNL4",
+    "instruction": "Find me machine wash men's dress shirts with cotton spandex, classic fit, short sleeve",
+    "instruction_attributes": [
+      "machine wash",
+      "cotton spandex",
+      "classic fit",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B00O30JLDK",
+    "instruction": "Find me machine wash men's t-shirts with long sleeve",
+    "instruction_attributes": [
+      "machine wash",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B01N9I1E62",
+    "instruction": "Find me women's slippers with faux fur, rubber sole",
+    "instruction_attributes": [
+      "faux fur",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07N7TDKXQ",
+    "instruction": "Find me machine washable men's t-shirts with short sleeve for tumble dry",
+    "instruction_attributes": [
+      "machine washable",
+      "short sleeve",
+      "tumble dry"
+    ]
+  },
+  {
+    "task_id": "B01EX1BWE4",
+    "instruction": "Find me long lasting, moisture wicking men's boots for daily wear",
+    "instruction_attributes": [
+      "long lasting",
+      "moisture wicking",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09F2MFG1Q",
+    "instruction": "Find me men's slippers with memory foam, rubber sole",
+    "instruction_attributes": [
+      "memory foam",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07JVVDJ6L",
+    "instruction": "Find me machine wash men's tuxedo shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B01DJGWDBA",
+    "instruction": "Find me men's fashion sneakers with memory foam, rubber sole",
+    "instruction_attributes": [
+      "memory foam",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B09P5V8ZSK",
+    "instruction": "Find me open toe, non slip women's pumps with high heel, ankle strap, arch support, rubber sole",
+    "instruction_attributes": [
+      "open toe",
+      "non slip",
+      "high heel",
+      "ankle strap",
+      "arch support",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B09QKJHF4Q",
+    "instruction": "Find me day comfort, anti slip, non slip women's oxfords with high heel, closed toe, ankle strap, memory foam, rubber sole",
+    "instruction_attributes": [
+      "day comfort",
+      "anti slip",
+      "non slip",
+      "high heel",
+      "closed toe",
+      "ankle strap",
+      "memory foam",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B09MFZ726L",
+    "instruction": "Find me open toe women's flats with rubber sole for daily wear",
+    "instruction_attributes": [
+      "open toe",
+      "rubber sole",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09HH6P68W",
+    "instruction": "Find me non slip men's outdoor shoes with rubber sole, comfortable fit, unique design",
+    "instruction_attributes": [
+      "non slip",
+      "rubber sole",
+      "comfortable fit",
+      "unique design"
+    ]
+  },
+  {
+    "task_id": "B01MSP2B0I",
+    "instruction": "Find me slim fit, straight leg men's jeans with quality materials",
+    "instruction_attributes": [
+      "slim fit",
+      "straight leg",
+      "quality materials"
+    ]
+  },
+  {
+    "task_id": "B09KXCHWGD",
+    "instruction": "Find me men's polos with short sleeve, button closure",
+    "instruction_attributes": [
+      "short sleeve",
+      "button closure"
+    ]
+  },
+  {
+    "task_id": "B09HGFV91W",
+    "instruction": "Find me slim fit men's suits & sport coats with long sleeve, short sleeve",
+    "instruction_attributes": [
+      "slim fit",
+      "long sleeve",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B07T3VMGDG",
+    "instruction": "Find me machine wash men's tuxedo shirts with cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "machine wash",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B0821674CT",
+    "instruction": "Find me men's athletic shoes with rubber outsole, rubber sole",
+    "instruction_attributes": [
+      "rubber outsole",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B01MG1LTMS",
+    "instruction": "Find me men's polos with relaxed fit, needle sleeve",
+    "instruction_attributes": [
+      "relaxed fit",
+      "needle sleeve"
+    ]
+  },
+  {
+    "task_id": "B08LKKSL8F",
+    "instruction": "Find me machine wash men's pants with relaxed fit",
+    "instruction_attributes": [
+      "machine wash",
+      "relaxed fit"
+    ]
+  },
+  {
+    "task_id": "B099FKK27G",
+    "instruction": "Find me anti slip, non slip women's slippers with faux fur",
+    "instruction_attributes": [
+      "anti slip",
+      "non slip",
+      "faux fur"
+    ]
+  },
+  {
+    "task_id": "B096P77XMD",
+    "instruction": "Find me men's shorts with comfortable fit, elastic waistband for gym workout, daily wear",
+    "instruction_attributes": [
+      "comfortable fit",
+      "elastic waistband",
+      "gym workout",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09Q8RD8YN",
+    "instruction": "Find me wash cold, machine wash men's fashion hoodies & sweatshirts with long sleeve",
+    "instruction_attributes": [
+      "wash cold",
+      "machine wash",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09QXF3V3X",
+    "instruction": "Find me non slip men's outdoor shoes with rubber sole",
+    "instruction_attributes": [
+      "non slip",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B07DKGJR74",
+    "instruction": "Find me women's sweaters with relaxed fit, long sleeve",
+    "instruction_attributes": [
+      "relaxed fit",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B099231V35",
+    "instruction": "Find me slim fit, straight leg men's pants with elastic waist, long sleeve, relaxed fit for everyday wear",
+    "instruction_attributes": [
+      "slim fit",
+      "straight leg",
+      "elastic waist",
+      "long sleeve",
+      "relaxed fit",
+      "everyday wear"
+    ]
+  },
+  {
+    "task_id": "B09R7H66FC",
+    "instruction": "Find me slim fit men's suits & sport coats with button closure, classic fit",
+    "instruction_attributes": [
+      "slim fit",
+      "button closure",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B08ZRR3DZT",
+    "instruction": "Find me women's dresses with polyester spandex for daily wear",
+    "instruction_attributes": [
+      "polyester spandex",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B08226NDZW",
+    "instruction": "Find me officially licensed, machine wash men's t-shirts & tanks with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "officially licensed",
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B07FD13LP1",
+    "instruction": "Find me machine wash men's shorts with drawstring closure for tumble dry",
+    "instruction_attributes": [
+      "machine wash",
+      "drawstring closure",
+      "tumble dry"
+    ]
+  },
+  {
+    "task_id": "B09RPRRNVP",
+    "instruction": "Find me open toe, slip resistant women's work & safety footwear with arch support, high heel, ankle strap, memory foam",
+    "instruction_attributes": [
+      "open toe",
+      "slip resistant",
+      "arch support",
+      "high heel",
+      "ankle strap",
+      "memory foam"
+    ]
+  },
+  {
+    "task_id": "B09QQJJ3KM",
+    "instruction": "Find me wash cold, machine wash men's fashion hoodies & sweatshirts with long sleeve",
+    "instruction_attributes": [
+      "wash cold",
+      "machine wash",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B074Z315KK",
+    "instruction": "Find me wash cold, hand wash, machine wash men's t-shirts & tanks",
+    "instruction_attributes": [
+      "wash cold",
+      "hand wash",
+      "machine wash"
+    ]
+  },
+  {
+    "task_id": "B09KLQLLT2",
+    "instruction": "Find me machine wash, moisture wicking men's t-shirts & tanks with polyester spandex, long sleeve",
+    "instruction_attributes": [
+      "machine wash",
+      "moisture wicking",
+      "polyester spandex",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09S3TWKSC",
+    "instruction": "Find me knee high, open toe women's loafers & slip-ons with steel toe, high heel, faux fur, arch support",
+    "instruction_attributes": [
+      "knee high",
+      "open toe",
+      "steel toe",
+      "high heel",
+      "faux fur",
+      "arch support"
+    ]
+  },
+  {
+    "task_id": "B07YYNY2ZZ",
+    "instruction": "Find me men's underwear with stretch fabric, cotton spandex",
+    "instruction_attributes": [
+      "stretch fabric",
+      "cotton spandex"
+    ]
+  },
+  {
+    "task_id": "B07GYWW3NY",
+    "instruction": "Find me straight leg, machine washable men's jeans",
+    "instruction_attributes": [
+      "straight leg",
+      "machine washable"
+    ]
+  },
+  {
+    "task_id": "B09QQP3356",
+    "instruction": "Find me slim fit, hand wash, machine wash men's tuxedo shirts with short sleeve, regular fit, long sleeve, polyester cotton for gym workout",
+    "instruction_attributes": [
+      "slim fit",
+      "hand wash",
+      "machine wash",
+      "short sleeve",
+      "regular fit",
+      "long sleeve",
+      "polyester cotton",
+      "gym workout"
+    ]
+  },
+  {
+    "task_id": "B09ND8P2QR",
+    "instruction": "Find me hand wash men's sleep & lounge with long sleeve, elastic waistband for daily wear",
+    "instruction_attributes": [
+      "hand wash",
+      "long sleeve",
+      "elastic waistband",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B08KYBVQ46",
+    "instruction": "Find me machine wash women's pants with elastic waist",
+    "instruction_attributes": [
+      "machine wash",
+      "elastic waist"
+    ]
+  },
+  {
+    "task_id": "B07MNW91JH",
+    "instruction": "Find me slip resistant women's mules & clogs with synthetic sole",
+    "instruction_attributes": [
+      "slip resistant",
+      "synthetic sole"
+    ]
+  },
+  {
+    "task_id": "B09N9T673Q",
+    "instruction": "Find me open toe, knee high, non slip women's pumps with ankle strap, high heel, memory foam, rubber sole for teen girls",
+    "instruction_attributes": [
+      "open toe",
+      "knee high",
+      "non slip",
+      "ankle strap",
+      "high heel",
+      "memory foam",
+      "rubber sole",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B08DXL22JN",
+    "instruction": "Find me wash cold, machine wash women's suiting & blazers with button closure, polyester spandex, long sleeve",
+    "instruction_attributes": [
+      "wash cold",
+      "machine wash",
+      "button closure",
+      "polyester spandex",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09ND9DP7J",
+    "instruction": "Find me men's sleep & lounge with long sleeve, elastic waistband for daily wear",
+    "instruction_attributes": [
+      "long sleeve",
+      "elastic waistband",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09NSC5VDG",
+    "instruction": "Find me women's lingerie, sleep & lounge with long sleeve, tummy control, high waist, short sleeve",
+    "instruction_attributes": [
+      "long sleeve",
+      "tummy control",
+      "high waist",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B08JD14GJF",
+    "instruction": "Find me quick drying, moisture wicking women's activewear with long sleeve",
+    "instruction_attributes": [
+      "quick drying",
+      "moisture wicking",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09S6VN97V",
+    "instruction": "Find me women's mules & clogs with relaxed fit, arch support, rubber sole",
+    "instruction_attributes": [
+      "relaxed fit",
+      "arch support",
+      "rubber sole"
+    ]
+  },
+  {
+    "task_id": "B01KI9HU1O",
+    "instruction": "Find me machine wash, wash cold men's sweaters with polyester cotton for tumble dry",
+    "instruction_attributes": [
+      "machine wash",
+      "wash cold",
+      "polyester cotton",
+      "tumble dry"
+    ]
+  },
+  {
+    "task_id": "B094Q7B3SS",
+    "instruction": "Find me slim fit, loose fit women's tops, tees & blouses with long sleeve, short sleeve",
+    "instruction_attributes": [
+      "slim fit",
+      "loose fit",
+      "long sleeve",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B07XPR3R7N",
+    "instruction": "Find me officially licensed men's t-shirts & tanks with needle sleeve, classic fit",
+    "instruction_attributes": [
+      "officially licensed",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B09KRLGSC5",
+    "instruction": "Find me hand wash, machine wash women's sweaters with long sleeve, unique design",
+    "instruction_attributes": [
+      "hand wash",
+      "machine wash",
+      "long sleeve",
+      "unique design"
+    ]
+  },
+  {
+    "task_id": "B09Q5ZHRVM",
+    "instruction": "Find me long lasting, moisture wicking, loose fit men's shorts with elastic waistband, quality materials, polyester cotton, short sleeve",
+    "instruction_attributes": [
+      "long lasting",
+      "moisture wicking",
+      "loose fit",
+      "elastic waistband",
+      "quality materials",
+      "polyester cotton",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B07WMMYB6G",
+    "instruction": "Find me men's shorts with drawstring closure, elastic waist for gym workout",
+    "instruction_attributes": [
+      "drawstring closure",
+      "elastic waist",
+      "gym workout"
+    ]
+  },
+  {
+    "task_id": "B07MGB73NJ",
+    "instruction": "Find me machine wash women's tops, tees & blouses with short sleeve, unique design, relaxed fit, button closure, polyester spandex",
+    "instruction_attributes": [
+      "machine wash",
+      "short sleeve",
+      "unique design",
+      "relaxed fit",
+      "button closure",
+      "polyester spandex"
+    ]
+  },
+  {
+    "task_id": "B08L373FLK",
+    "instruction": "Find me machine washable women's shorts with cotton spandex",
+    "instruction_attributes": [
+      "machine washable",
+      "cotton spandex"
+    ]
+  },
+  {
+    "task_id": "B07LBNRY7H",
+    "instruction": "Find me officially licensed men's sweaters with classic fit",
+    "instruction_attributes": [
+      "officially licensed",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B097RK2B2Q",
+    "instruction": "Find me loose fit women's tops, tees & blouses with short sleeve, long sleeve",
+    "instruction_attributes": [
+      "loose fit",
+      "short sleeve",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09S632DT3",
+    "instruction": "Find me hand wash women's lingerie, sleep & lounge for laundry bag",
+    "instruction_attributes": [
+      "hand wash",
+      "laundry bag"
+    ]
+  },
+  {
+    "task_id": "B08ZB1MN8D",
+    "instruction": "Find me long lasting, easy care, machine washable men's pants with elastic waistband",
+    "instruction_attributes": [
+      "long lasting",
+      "easy care",
+      "machine washable",
+      "elastic waistband"
+    ]
+  },
+  {
+    "task_id": "B07V3WXX85",
+    "instruction": "Find me machine wash men's jackets & coats with imported zipper",
+    "instruction_attributes": [
+      "machine wash",
+      "imported zipper"
+    ]
+  },
+  {
+    "task_id": "B09HX5CD2D",
+    "instruction": "Find me officially licensed, machine wash men's shorts with drawstring closure, elastic waistband",
+    "instruction_attributes": [
+      "officially licensed",
+      "machine wash",
+      "drawstring closure",
+      "elastic waistband"
+    ]
+  },
+  {
+    "task_id": "B08NTPQ4KP",
+    "instruction": "Find me hand wash, machine wash women's bodysuit tops with nylon spandex",
+    "instruction_attributes": [
+      "hand wash",
+      "machine wash",
+      "nylon spandex"
+    ]
+  },
+  {
+    "task_id": "B015H77AF8",
+    "instruction": "Find me day comfort, open toe women's socks & hosiery with nylon spandex",
+    "instruction_attributes": [
+      "day comfort",
+      "open toe",
+      "nylon spandex"
+    ]
+  },
+  {
+    "task_id": "B09R9YCM6R",
+    "instruction": "Find me slim fit men's henleys with short sleeve",
+    "instruction_attributes": [
+      "slim fit",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B09PBPZ24Z",
+    "instruction": "Find me fleece lined, low rise, straight leg, wide leg, butt lifting, wash cold, slim fit, hand wash, machine wash women's jeans with high waist, polyester spandex, regular fit, button closure for teen girls, daily wear",
+    "instruction_attributes": [
+      "fleece lined",
+      "low rise",
+      "straight leg",
+      "wide leg",
+      "butt lifting",
+      "wash cold",
+      "slim fit",
+      "hand wash",
+      "machine wash",
+      "high waist",
+      "polyester spandex",
+      "regular fit",
+      "button closure",
+      "teen girls",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B07PVZPS58",
+    "instruction": "Find me machine wash men's underwear with polyester spandex",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester spandex"
+    ]
+  },
+  {
+    "task_id": "B09CDK9Q6Y",
+    "instruction": "Find me hand wash, machine wash women's dresses with quality polyester, long sleeve",
+    "instruction_attributes": [
+      "hand wash",
+      "machine wash",
+      "quality polyester",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B07ZXBGDXF",
+    "instruction": "Find me loose fit women's shorts with elastic closure, faux fur",
+    "instruction_attributes": [
+      "loose fit",
+      "elastic closure",
+      "faux fur"
+    ]
+  },
+  {
+    "task_id": "B089K79PQ1",
+    "instruction": "Find me hand wash, wash cold women's bodysuit tops with polyester spandex for tumble dry, daily wear",
+    "instruction_attributes": [
+      "hand wash",
+      "wash cold",
+      "polyester spandex",
+      "tumble dry",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09JC3K6R6",
+    "instruction": "Find me non slip, machine wash women's socks & hosiery with high heel",
+    "instruction_attributes": [
+      "non slip",
+      "machine wash",
+      "high heel"
+    ]
+  },
+  {
+    "task_id": "B00JGBJD3E",
+    "instruction": "Find me machine wash men's shorts with drawstring closure",
+    "instruction_attributes": [
+      "machine wash",
+      "drawstring closure"
+    ]
+  },
+  {
+    "task_id": "B09P39QN2W",
+    "instruction": "Find me wash cold, machine wash men's shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "wash cold",
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B08HF132PN",
+    "instruction": "Find me machine wash men's dress shirts with polyester heathers, heathers cotton, cotton heather",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather"
+    ]
+  },
+  {
+    "task_id": "B09QL82H1L",
+    "instruction": "Find me non slip, hand wash women's loafers & slip-ons with arch support",
+    "instruction_attributes": [
+      "non slip",
+      "hand wash",
+      "arch support"
+    ]
+  },
+  {
+    "task_id": "B09S3BN15C",
+    "instruction": "Find me slim fit, loose fit men's henleys with short sleeve, long sleeve, regular fit",
+    "instruction_attributes": [
+      "slim fit",
+      "loose fit",
+      "short sleeve",
+      "long sleeve",
+      "regular fit"
+    ]
+  },
+  {
+    "task_id": "B09QCVCYVY",
+    "instruction": "Find me wide leg, slim fit, straight leg, loose fit women's shorts with long sleeve, elastic waist, high waist, tummy control, short sleeve",
+    "instruction_attributes": [
+      "wide leg",
+      "slim fit",
+      "straight leg",
+      "loose fit",
+      "long sleeve",
+      "elastic waist",
+      "high waist",
+      "tummy control",
+      "short sleeve"
+    ]
+  },
+  {
+    "task_id": "B079PH6955",
+    "instruction": "Find me men's t-shirts & tanks with needle sleeve, classic fit",
+    "instruction_attributes": [
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B099WX3CV5",
+    "instruction": "Find me slim fit, machine wash women's jumpsuits, rompers & overalls with short sleeve, high waist, polyester spandex for daily wear",
+    "instruction_attributes": [
+      "slim fit",
+      "machine wash",
+      "short sleeve",
+      "high waist",
+      "polyester spandex",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09NDS8F4V",
+    "instruction": "Find me women's jumpsuits, rompers & overalls with button closure, quality polyester, polyester spandex, long sleeve for daily wear",
+    "instruction_attributes": [
+      "button closure",
+      "quality polyester",
+      "polyester spandex",
+      "long sleeve",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09PVNLVRW",
+    "instruction": "Find me slim fit women's jumpsuits, rompers & overalls with long sleeve for daily wear",
+    "instruction_attributes": [
+      "slim fit",
+      "long sleeve",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09B2HN6NN",
+    "instruction": "Find me machine wash men's pants with drawstring closure, elastic waist, polyester spandex",
+    "instruction_attributes": [
+      "machine wash",
+      "drawstring closure",
+      "elastic waist",
+      "polyester spandex"
+    ]
+  },
+  {
+    "task_id": "B08HW24C55",
+    "instruction": "Find me long lasting, officially licensed women's fashion hoodies & sweatshirts with long sleeve, relaxed fit",
+    "instruction_attributes": [
+      "long lasting",
+      "officially licensed",
+      "long sleeve",
+      "relaxed fit"
+    ]
+  },
+  {
+    "task_id": "B09PYSKD7H",
+    "instruction": "Find me men's shorts with elastic waist, classic fit, short sleeve for gym workout",
+    "instruction_attributes": [
+      "elastic waist",
+      "classic fit",
+      "short sleeve",
+      "gym workout"
+    ]
+  },
+  {
+    "task_id": "B09Q37JQZ6",
+    "instruction": "Find me machine wash women's swimsuits & cover ups with tummy control, high waist",
+    "instruction_attributes": [
+      "machine wash",
+      "tummy control",
+      "high waist"
+    ]
+  },
+  {
+    "task_id": "B09NPML43M",
+    "instruction": "Find me loose fit, day comfort, hand wash women's tops, tees & blouses with short sleeve, polyester spandex for teen girls",
+    "instruction_attributes": [
+      "loose fit",
+      "day comfort",
+      "hand wash",
+      "short sleeve",
+      "polyester spandex",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B0969G2DH8",
+    "instruction": "Find me machine wash men's dress shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B09RK77R3V",
+    "instruction": "Find me butt lifting, machine washable, hand wash men's shorts with short sleeve, elastic waistband",
+    "instruction_attributes": [
+      "butt lifting",
+      "machine washable",
+      "hand wash",
+      "short sleeve",
+      "elastic waistband"
+    ]
+  },
+  {
+    "task_id": "B09HY9XB8P",
+    "instruction": "Find me machine wash men's underwear with polyester spandex",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester spandex"
+    ]
+  },
+  {
+    "task_id": "B09KP78G37",
+    "instruction": "Find me winter warm women's coats, jackets & vests with long sleeve, faux fur",
+    "instruction_attributes": [
+      "winter warm",
+      "long sleeve",
+      "faux fur"
+    ]
+  },
+  {
+    "task_id": "B0861GWJV2",
+    "instruction": "Find me quick drying women's swimsuits & cover ups with nylon spandex, long sleeve",
+    "instruction_attributes": [
+      "quick drying",
+      "nylon spandex",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B08BC7JRLQ",
+    "instruction": "Find me machine wash women's pants with high waist, elastic closure",
+    "instruction_attributes": [
+      "machine wash",
+      "high waist",
+      "elastic closure"
+    ]
+  },
+  {
+    "task_id": "B09QSQ8RT9",
+    "instruction": "Find me loose fit, slim fit men's shorts with short sleeve, contrast color, regular fit, drawstring waist for gym workout",
+    "instruction_attributes": [
+      "loose fit",
+      "slim fit",
+      "short sleeve",
+      "contrast color",
+      "regular fit",
+      "drawstring waist",
+      "gym workout"
+    ]
+  },
+  {
+    "task_id": "B09QGK5XHZ",
+    "instruction": "Find me slim fit men's tuxedo shirts with long sleeve",
+    "instruction_attributes": [
+      "slim fit",
+      "long sleeve"
+    ]
+  },
+  {
+    "task_id": "B09P7H5YK7",
+    "instruction": "Find me machine wash men's dress shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B09Q67H373",
+    "instruction": "Find me loose fit, slim fit men's tuxedo shirts with long sleeve, short sleeve, polyester cotton, elastic waist, regular fit for gym workout",
+    "instruction_attributes": [
+      "loose fit",
+      "slim fit",
+      "long sleeve",
+      "short sleeve",
+      "polyester cotton",
+      "elastic waist",
+      "regular fit",
+      "gym workout"
+    ]
+  },
+  {
+    "task_id": "B07Q48JVT8",
+    "instruction": "Find me officially licensed, wash cold, machine wash women's fashion hoodies & sweatshirts with classic fit",
+    "instruction_attributes": [
+      "officially licensed",
+      "wash cold",
+      "machine wash",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B09PL5W9PD",
+    "instruction": "Find me machine wash women's swimsuits & cover ups with drawstring closure, elastic waistband, tummy control",
+    "instruction_attributes": [
+      "machine wash",
+      "drawstring closure",
+      "elastic waistband",
+      "tummy control"
+    ]
+  },
+  {
+    "task_id": "B09P5CRVQ6",
+    "instruction": "Find me fleece lined women's activewear with long sleeve, classic fit for daily wear",
+    "instruction_attributes": [
+      "fleece lined",
+      "long sleeve",
+      "classic fit",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B078WSND96",
+    "instruction": "Find me men's t-shirts & tanks with short sleeve, fashion design, long sleeve, button closure",
+    "instruction_attributes": [
+      "short sleeve",
+      "fashion design",
+      "long sleeve",
+      "button closure"
+    ]
+  },
+  {
+    "task_id": "B09NNMV9LN",
+    "instruction": "Find me loose fit, light weight, slim fit men's henleys with long sleeve, short sleeve, contrast color, unique design for gym workout, teen girls",
+    "instruction_attributes": [
+      "loose fit",
+      "light weight",
+      "slim fit",
+      "long sleeve",
+      "short sleeve",
+      "contrast color",
+      "unique design",
+      "gym workout",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B09S6LZYHQ",
+    "instruction": "Find me women's swimsuits & cover ups with tummy control for teen girls",
+    "instruction_attributes": [
+      "tummy control",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B085S5P7WB",
+    "instruction": "Find me machine washable, hand wash, machine wash women's pants with tummy control, high waist for daily wear",
+    "instruction_attributes": [
+      "machine washable",
+      "hand wash",
+      "machine wash",
+      "tummy control",
+      "high waist",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09N974RWN",
+    "instruction": "Find me quick drying, machine wash women's swimsuits & cover ups with high waist",
+    "instruction_attributes": [
+      "quick drying",
+      "machine wash",
+      "high waist"
+    ]
+  },
+  {
+    "task_id": "B09T756KQ5",
+    "instruction": "Find me slim fit, loose fit men's tuxedo shirts with long sleeve, short sleeve, contrast color, classic fit for teen girls",
+    "instruction_attributes": [
+      "slim fit",
+      "loose fit",
+      "long sleeve",
+      "short sleeve",
+      "contrast color",
+      "classic fit",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B09QCP4579",
+    "instruction": "Find me butt lifting, light weight women's shorts with high waist, tummy control",
+    "instruction_attributes": [
+      "butt lifting",
+      "light weight",
+      "high waist",
+      "tummy control"
+    ]
+  },
+  {
+    "task_id": "B09M63B87V",
+    "instruction": "Find me hand wash women's sweaters with long sleeve, stretch fabric, polyester spandex for teen girls, daily wear",
+    "instruction_attributes": [
+      "hand wash",
+      "long sleeve",
+      "stretch fabric",
+      "polyester spandex",
+      "teen girls",
+      "daily wear"
+    ]
+  },
+  {
+    "task_id": "B09RVF4JP1",
+    "instruction": "Find me machine wash men's t-shirts & tanks with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit",
+    "instruction_attributes": [
+      "machine wash",
+      "polyester heathers",
+      "heathers cotton",
+      "cotton heather",
+      "needle sleeve",
+      "classic fit"
+    ]
+  },
+  {
+    "task_id": "B08G8DXR5N",
+    "instruction": "Find me hand wash, machine wash women's activewear with nylon spandex",
+    "instruction_attributes": [
+      "hand wash",
+      "machine wash",
+      "nylon spandex"
+    ]
+  },
+  {
+    "task_id": "B08Q43LJKJ",
+    "instruction": "Find me fleece lined women's pants with long sleeve for teen girls",
+    "instruction_attributes": [
+      "fleece lined",
+      "long sleeve",
+      "teen girls"
+    ]
+  },
+  {
+    "task_id": "B093KBGC44",
+    "instruction": "Find me women's socks & hosiery with blouse hosiery for laundry bag",
+    "instruction_attributes": [
+      "blouse hosiery",
+      "laundry bag"
+    ]
+  },
+  {
+    "task_id": "B01GEVN2HG",
+    "instruction": "Find me machine wash men's underwear with elastic waistband",
+    "instruction_attributes": [
+      "machine wash",
+      "elastic waistband"
+    ]
+  },
+  {
+    "task_id": "B093YT83QR",
+    "instruction": "Find me women's socks & hosiery with blouse hosiery for laundry bag",
+    "instruction_attributes": [
+      "blouse hosiery",
+      "laundry bag"
+    ]
+  },
+  {
+    "task_id": "B0859PP21L",
+    "instruction": "Find me easy care women's activewear with quality materials, polyester spandex",
+    "instruction_attributes": [
+      "easy care",
+      "quality materials",
+      "polyester spandex"
+    ]
+  },
+  {
+    "task_id": "B01HQTWL6S",
+    "instruction": "Find me machine wash, wash cold women's fashion hoodies & sweatshirts for dry clean, tumble dry",
+    "instruction_attributes": [
+      "machine wash",
+      "wash cold",
+      "dry clean",
+      "tumble dry"
+    ]
+  },
+  {
+    "task_id": "B093K5JK25",
+    "instruction": "Find me women's socks & hosiery with blouse hosiery for laundry bag",
+    "instruction_attributes": [
+      "blouse hosiery",
+      "laundry bag"
+    ]
+  },
+  {
+    "task_id": "B07Y81FQV3",
+    "instruction": "Find me console tables with steel frame for living room",
+    "instruction_attributes": [
+      "steel frame",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07G4HJR5V",
+    "instruction": "Find me easy clean living room sets with faux leather",
+    "instruction_attributes": [
+      "easy clean",
+      "faux leather"
+    ]
+  },
+  {
+    "task_id": "B01N4JDM7G",
+    "instruction": "Find me mid century ottomans for living room",
+    "instruction_attributes": [
+      "mid century",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B099WH1RTM",
+    "instruction": "Find me ready hang wall art with solid wood for living room",
+    "instruction_attributes": [
+      "ready hang",
+      "solid wood",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09B7G7P58",
+    "instruction": "Find me space saving, easy assemble living room sets for dining room",
+    "instruction_attributes": [
+      "space saving",
+      "easy assemble",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B09GBF12CY",
+    "instruction": "Find me floor lamps for living room, dining room",
+    "instruction_attributes": [
+      "living room",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B09DG3YTHY",
+    "instruction": "Find me eco friendly throw blankets with fleece throw",
+    "instruction_attributes": [
+      "eco friendly",
+      "fleece throw"
+    ]
+  },
+  {
+    "task_id": "B08L2ZDWN2",
+    "instruction": "Find me super soft decorative pillows for living room",
+    "instruction_attributes": [
+      "super soft",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B0943TLW3L",
+    "instruction": "Find me long lasting artificial plants with exquisite workmanship for living room",
+    "instruction_attributes": [
+      "long lasting",
+      "exquisite workmanship",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B096G437B4",
+    "instruction": "Find me mid century table lamps with bronze finish, steel frame",
+    "instruction_attributes": [
+      "mid century",
+      "bronze finish",
+      "steel frame"
+    ]
+  },
+  {
+    "task_id": "B0854JTZMT",
+    "instruction": "Find me pendants and chandeliers with pendant light for living room, dining room",
+    "instruction_attributes": [
+      "pendant light",
+      "living room",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B08JQ5TLQV",
+    "instruction": "Find me long lasting, lead free candles with soy wax",
+    "instruction_attributes": [
+      "long lasting",
+      "lead free",
+      "soy wax"
+    ]
+  },
+  {
+    "task_id": "B08MFGNXW3",
+    "instruction": "Find me eco friendly, heavy duty, assembly required, easy clean file cabinets",
+    "instruction_attributes": [
+      "eco friendly",
+      "heavy duty",
+      "assembly required",
+      "easy clean"
+    ]
+  },
+  {
+    "task_id": "B07Q87P8DQ",
+    "instruction": "Find me pendants and chandeliers with glass shade, clear glass",
+    "instruction_attributes": [
+      "glass shade",
+      "clear glass"
+    ]
+  },
+  {
+    "task_id": "B00062IG3A",
+    "instruction": "Find me floor lamps with bronze finish for living room",
+    "instruction_attributes": [
+      "bronze finish",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B095KCTB3Y",
+    "instruction": "Find me non slip, easy clean computer armoires with pu leather",
+    "instruction_attributes": [
+      "non slip",
+      "easy clean",
+      "pu leather"
+    ]
+  },
+  {
+    "task_id": "B09KQQNRRM",
+    "instruction": "Find me height adjustable pendants and chandeliers with pendant light, light fixture, wood frame for dining room, living room",
+    "instruction_attributes": [
+      "height adjustable",
+      "pendant light",
+      "light fixture",
+      "wood frame",
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B0928LGTVF",
+    "instruction": "Find me sconces with clear glass, glass shade, vanity light, light fixture for living room, dining room",
+    "instruction_attributes": [
+      "clear glass",
+      "glass shade",
+      "vanity light",
+      "light fixture",
+      "living room",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B08D74SKT2",
+    "instruction": "Find me sconces with brushed nickel, nickel finish, vanity light, clear glass, glass shade",
+    "instruction_attributes": [
+      "brushed nickel",
+      "nickel finish",
+      "vanity light",
+      "clear glass",
+      "glass shade"
+    ]
+  },
+  {
+    "task_id": "B09LHM4WQS",
+    "instruction": "Find me coffee tables with steel frame, storage space for living room",
+    "instruction_attributes": [
+      "steel frame",
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B096RV56XP",
+    "instruction": "Find me machine washable window coverings for living room",
+    "instruction_attributes": [
+      "machine washable",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09F6SCW47",
+    "instruction": "Find me wall mounted, white item, easy clean tv stands for living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "white item",
+      "easy clean",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B0836D6CW4",
+    "instruction": "Find me super soft, machine washable throw blankets with fleece throw",
+    "instruction_attributes": [
+      "super soft",
+      "machine washable",
+      "fleece throw"
+    ]
+  },
+  {
+    "task_id": "B07S2Z9KGP",
+    "instruction": "Find me space saving decorative mirrors for living room",
+    "instruction_attributes": [
+      "space saving",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08CV7M1HV",
+    "instruction": "Find me mid century coffee tables with tempered glass, solid wood for living room",
+    "instruction_attributes": [
+      "mid century",
+      "tempered glass",
+      "solid wood",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09B7ZKMVY",
+    "instruction": "Find me queen size, spot clean, easy clean mattresses",
+    "instruction_attributes": [
+      "queen size",
+      "spot clean",
+      "easy clean"
+    ]
+  },
+  {
+    "task_id": "B082KBN23S",
+    "instruction": "Find me wall mounted decorative mirrors for living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B091CNTBNS",
+    "instruction": "Find me easy clean pendants and chandeliers with light fixture",
+    "instruction_attributes": [
+      "easy clean",
+      "light fixture"
+    ]
+  },
+  {
+    "task_id": "B077KJXD99",
+    "instruction": "Find me high density mattresses with memory foam",
+    "instruction_attributes": [
+      "high density",
+      "memory foam"
+    ]
+  },
+  {
+    "task_id": "B09GY58GDH",
+    "instruction": "Find me button tufted, mid century, high density, easy assemble dining sets with solid wood, wood frame for dining room",
+    "instruction_attributes": [
+      "button tufted",
+      "mid century",
+      "high density",
+      "easy assemble",
+      "solid wood",
+      "wood frame",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B09NTCCVGX",
+    "instruction": "Find me non slip, easy install ottomans with faux leather",
+    "instruction_attributes": [
+      "non slip",
+      "easy install",
+      "faux leather"
+    ]
+  },
+  {
+    "task_id": "B095SWN6C3",
+    "instruction": "Find me easy install sconces with vanity light, glass shade, light fixture for living room",
+    "instruction_attributes": [
+      "easy install",
+      "vanity light",
+      "glass shade",
+      "light fixture",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09B77K9YQ",
+    "instruction": "Find me console tables with wood frame for living room",
+    "instruction_attributes": [
+      "wood frame",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B099Z6YWL1",
+    "instruction": "Find me white item baker's racks with storage unit, white finish, storage space",
+    "instruction_attributes": [
+      "white item",
+      "storage unit",
+      "white finish",
+      "storage space"
+    ]
+  },
+  {
+    "task_id": "B0743JKHBV",
+    "instruction": "Find me double sided, machine washable decorative pillows with printing technology",
+    "instruction_attributes": [
+      "double sided",
+      "machine washable",
+      "printing technology"
+    ]
+  },
+  {
+    "task_id": "B09S6S7LG1",
+    "instruction": "Find me wall mounted tv stands with high gloss, storage space for living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "high gloss",
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09BYX42DW",
+    "instruction": "Find me machine washable living room sets for living room",
+    "instruction_attributes": [
+      "machine washable",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07ZBCF88X",
+    "instruction": "Find me height adjustable dining tables with glass shade, contemporary design, clear glass for dining room",
+    "instruction_attributes": [
+      "height adjustable",
+      "glass shade",
+      "contemporary design",
+      "clear glass",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B09L44298X",
+    "instruction": "Find me height adjustable home office chairs with stainless steel for living room",
+    "instruction_attributes": [
+      "height adjustable",
+      "stainless steel",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B094YFJ95K",
+    "instruction": "Find me twin size, easy assemble bedframes with wood frame, storage space for living room",
+    "instruction_attributes": [
+      "twin size",
+      "easy assemble",
+      "wood frame",
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B085RBZCHH",
+    "instruction": "Find me mid century, heavy duty, easy install furniture sets",
+    "instruction_attributes": [
+      "mid century",
+      "heavy duty",
+      "easy install"
+    ]
+  },
+  {
+    "task_id": "B09GK4XTJG",
+    "instruction": "Find me wall mounted pendants and chandeliers with pendant light for dining room, living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "pendant light",
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08FQTMCNM",
+    "instruction": "Find me height adjustable, assembly required bases with pu leather, faux leather",
+    "instruction_attributes": [
+      "height adjustable",
+      "assembly required",
+      "pu leather",
+      "faux leather"
+    ]
+  },
+  {
+    "task_id": "B09P8D2Q1Q",
+    "instruction": "Find me home office cabinets with storage space for living room",
+    "instruction_attributes": [
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B018A8MPJ2",
+    "instruction": "Find me queen size beds with storage unit",
+    "instruction_attributes": [
+      "queen size",
+      "storage unit"
+    ]
+  },
+  {
+    "task_id": "B07PM8MJKZ",
+    "instruction": "Find me double sided, fully assembled, long lasting mattresses",
+    "instruction_attributes": [
+      "double sided",
+      "fully assembled",
+      "long lasting"
+    ]
+  },
+  {
+    "task_id": "B07FDJYBVW",
+    "instruction": "Find me assembly required kitchen islands with white finish, wood frame",
+    "instruction_attributes": [
+      "assembly required",
+      "white finish",
+      "wood frame"
+    ]
+  },
+  {
+    "task_id": "B07DRFDWVT",
+    "instruction": "Find me machine washable living room sets for living room",
+    "instruction_attributes": [
+      "machine washable",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08DHS3TH5",
+    "instruction": "Find me mid century vanities with vanity light, clear glass, light fixture",
+    "instruction_attributes": [
+      "mid century",
+      "vanity light",
+      "clear glass",
+      "light fixture"
+    ]
+  },
+  {
+    "task_id": "B08R5Z7S2K",
+    "instruction": "Find me easy clean, easy assemble file cabinets with storage space",
+    "instruction_attributes": [
+      "easy clean",
+      "easy assemble",
+      "storage space"
+    ]
+  },
+  {
+    "task_id": "B01I5B1Q1M",
+    "instruction": "Find me mid century, easy clean bar stools with faux leather, solid wood",
+    "instruction_attributes": [
+      "mid century",
+      "easy clean",
+      "faux leather",
+      "solid wood"
+    ]
+  },
+  {
+    "task_id": "B079V5YD92",
+    "instruction": "Find me assembly required baker's racks with engineered wood",
+    "instruction_attributes": [
+      "assembly required",
+      "engineered wood"
+    ]
+  },
+  {
+    "task_id": "B09PTQFBNT",
+    "instruction": "Find me easy assemble drafting tables with steel frame, storage space",
+    "instruction_attributes": [
+      "easy assemble",
+      "steel frame",
+      "storage space"
+    ]
+  },
+  {
+    "task_id": "B08R9QHFPC",
+    "instruction": "Find me high density, space saving, easy clean mattresses",
+    "instruction_attributes": [
+      "high density",
+      "space saving",
+      "easy clean"
+    ]
+  },
+  {
+    "task_id": "B0873B8Y7P",
+    "instruction": "Find me assembly required sconces with clear glass for living room",
+    "instruction_attributes": [
+      "assembly required",
+      "clear glass",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07S8F7SHK",
+    "instruction": "Find me white item, assembly required console tables for dining room",
+    "instruction_attributes": [
+      "white item",
+      "assembly required",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B08KY1G31G",
+    "instruction": "Find me candles with soy wax for living room",
+    "instruction_attributes": [
+      "soy wax",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08TR23329",
+    "instruction": "Find me floor lamps with bronze finish, steel frame",
+    "instruction_attributes": [
+      "bronze finish",
+      "steel frame"
+    ]
+  },
+  {
+    "task_id": "B09GVJBPRR",
+    "instruction": "Find me non slip, easy clean dining sets for dining room",
+    "instruction_attributes": [
+      "non slip",
+      "easy clean",
+      "dining room"
+    ]
+  },
+  {
+    "task_id": "B084Q7C6TX",
+    "instruction": "Find me long lasting, white item table lamps for living room",
+    "instruction_attributes": [
+      "long lasting",
+      "white item",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07PX22S9F",
+    "instruction": "Find me bar stools for dining room, living room",
+    "instruction_attributes": [
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09P65MG4G",
+    "instruction": "Find me fully assembled sofa tables with contemporary style",
+    "instruction_attributes": [
+      "fully assembled",
+      "contemporary style"
+    ]
+  },
+  {
+    "task_id": "B09C896SN6",
+    "instruction": "Find me tv stands with exquisite workmanship for living room",
+    "instruction_attributes": [
+      "exquisite workmanship",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09QYYN4S4",
+    "instruction": "Find me wall mounted, space saving, assembly required hall trees for living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "space saving",
+      "assembly required",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08HV9D6P3",
+    "instruction": "Find me height adjustable, easy assemble desks",
+    "instruction_attributes": [
+      "height adjustable",
+      "easy assemble"
+    ]
+  },
+  {
+    "task_id": "B08P8LRFZ4",
+    "instruction": "Find me height adjustable, high density, easy install, easy assemble home office chairs for living room",
+    "instruction_attributes": [
+      "height adjustable",
+      "high density",
+      "easy install",
+      "easy assemble",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09LVDSDQG",
+    "instruction": "Find me easy assemble cabinets for living room",
+    "instruction_attributes": [
+      "easy assemble",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07XTK3P89",
+    "instruction": "Find me machine washable ottomans with printing technology",
+    "instruction_attributes": [
+      "machine washable",
+      "printing technology"
+    ]
+  },
+  {
+    "task_id": "B0048U51N4",
+    "instruction": "Find me assembly required beds with box spring",
+    "instruction_attributes": [
+      "assembly required",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B00V0OCMXS",
+    "instruction": "Find me heavy duty, assembly required desks",
+    "instruction_attributes": [
+      "heavy duty",
+      "assembly required"
+    ]
+  },
+  {
+    "task_id": "B09J9Y9H95",
+    "instruction": "Find me vanities with bronze finish, vanity light",
+    "instruction_attributes": [
+      "bronze finish",
+      "vanity light"
+    ]
+  },
+  {
+    "task_id": "B01A0L5FXA",
+    "instruction": "Find me ready use, fully assembled, high density mattresses with box spring",
+    "instruction_attributes": [
+      "ready use",
+      "fully assembled",
+      "high density",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B08QVDNJC7",
+    "instruction": "Find me eco friendly decorative pillows for living room",
+    "instruction_attributes": [
+      "eco friendly",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09QHT6WKQ",
+    "instruction": "Find me twin size beds with storage space, box spring",
+    "instruction_attributes": [
+      "twin size",
+      "storage space",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B09JC84P1M",
+    "instruction": "Find me long lasting coffee tables for living room",
+    "instruction_attributes": [
+      "long lasting",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B00KM40FHM",
+    "instruction": "Find me window coverings for dining room, living room",
+    "instruction_attributes": [
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08GY1VWPH",
+    "instruction": "Find me sconces for dining room, living room",
+    "instruction_attributes": [
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B099YQ75WT",
+    "instruction": "Find me bookcases with engineered wood, solid wood",
+    "instruction_attributes": [
+      "engineered wood",
+      "solid wood"
+    ]
+  },
+  {
+    "task_id": "B07FKGQKZ1",
+    "instruction": "Find me home office furniture sets for dining room, living room",
+    "instruction_attributes": [
+      "dining room",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09CQ45ZRB",
+    "instruction": "Find me non slip desks for living room",
+    "instruction_attributes": [
+      "non slip",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07KY5X445",
+    "instruction": "Find me heavy duty baker's racks with stainless steel",
+    "instruction_attributes": [
+      "heavy duty",
+      "stainless steel"
+    ]
+  },
+  {
+    "task_id": "B06XFZXXTC",
+    "instruction": "Find me non slip, space saving coat racks",
+    "instruction_attributes": [
+      "non slip",
+      "space saving"
+    ]
+  },
+  {
+    "task_id": "B0769HRGD2",
+    "instruction": "Find me beds with wood frame, box spring, solid wood",
+    "instruction_attributes": [
+      "wood frame",
+      "box spring",
+      "solid wood"
+    ]
+  },
+  {
+    "task_id": "B079N3VLRJ",
+    "instruction": "Find me easy clean sofa tables with solid wood for living room",
+    "instruction_attributes": [
+      "easy clean",
+      "solid wood",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07WC14R63",
+    "instruction": "Find me wall mounted decorative mirrors with wood frame, solid wood for living room",
+    "instruction_attributes": [
+      "wall mounted",
+      "wood frame",
+      "solid wood",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09688C4XM",
+    "instruction": "Find me high density, space saving sofa tables for living room",
+    "instruction_attributes": [
+      "high density",
+      "space saving",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B004A9L7ZO",
+    "instruction": "Find me assembly required bedframes with box spring",
+    "instruction_attributes": [
+      "assembly required",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B09N8SLFRJ",
+    "instruction": "Find me coffee tables with coated steel, tempered glass, steel frame",
+    "instruction_attributes": [
+      "coated steel",
+      "tempered glass",
+      "steel frame"
+    ]
+  },
+  {
+    "task_id": "B08KLHMPP9",
+    "instruction": "Find me non slip, easy clean ottomans for living room",
+    "instruction_attributes": [
+      "non slip",
+      "easy clean",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08SHNQJBW",
+    "instruction": "Find me baker's racks with engineered wood, storage space",
+    "instruction_attributes": [
+      "engineered wood",
+      "storage space"
+    ]
+  },
+  {
+    "task_id": "B0957XW92M",
+    "instruction": "Find me high density, white item vanities with metal legs for living room",
+    "instruction_attributes": [
+      "high density",
+      "white item",
+      "metal legs",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B07SXLVPF3",
+    "instruction": "Find me high density, assembly required, ready use, long lasting mattresses with box spring, king size, memory foam",
+    "instruction_attributes": [
+      "high density",
+      "assembly required",
+      "ready use",
+      "long lasting",
+      "box spring",
+      "king size",
+      "memory foam"
+    ]
+  },
+  {
+    "task_id": "B06ZYS6NW4",
+    "instruction": "Find me kitchen islands with glass shade, pendant light for living room",
+    "instruction_attributes": [
+      "glass shade",
+      "pendant light",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B01FT2KXJG",
+    "instruction": "Find me easy clean, easy assemble floor lamps with contemporary style for living room",
+    "instruction_attributes": [
+      "easy clean",
+      "easy assemble",
+      "contemporary style",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09NRF2QGD",
+    "instruction": "Find me hall trees with solid wood, storage space for living room",
+    "instruction_attributes": [
+      "solid wood",
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B09BNCFGLY",
+    "instruction": "Find me twin size, eco friendly bedframes with solid wood",
+    "instruction_attributes": [
+      "twin size",
+      "eco friendly",
+      "solid wood"
+    ]
+  },
+  {
+    "task_id": "B08X2FSR21",
+    "instruction": "Find me heavy duty, assembly required bedframes with box spring",
+    "instruction_attributes": [
+      "heavy duty",
+      "assembly required",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B078PKLZFB",
+    "instruction": "Find me high density, ready use, twin size, long lasting, assembly required mattresses with box spring",
+    "instruction_attributes": [
+      "high density",
+      "ready use",
+      "twin size",
+      "long lasting",
+      "assembly required",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B08XX6QRK4",
+    "instruction": "Find me easy assemble beds with box spring",
+    "instruction_attributes": [
+      "easy assemble",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B09DVQ3646",
+    "instruction": "Find me eco friendly, white item, easy install nightstands with storage space for living room",
+    "instruction_attributes": [
+      "eco friendly",
+      "white item",
+      "easy install",
+      "storage space",
+      "living room"
+    ]
+  },
+  {
+    "task_id": "B08LNFNXSD",
+    "instruction": "Find me easy install, easy assemble home office chairs",
+    "instruction_attributes": [
+      "easy install",
+      "easy assemble"
+    ]
+  },
+  {
+    "task_id": "B071S7GPMS",
+    "instruction": "Find me queen size beds with box spring",
+    "instruction_attributes": [
+      "queen size",
+      "box spring"
+    ]
+  },
+  {
+    "task_id": "B07TN3Y9H1",
+    "instruction": "Find me mid century vanities with vanity light, glass shade",
+    "instruction_attributes": [
+      "mid century",
+      "vanity light",
+      "glass shade"
+    ]
+  },
+  {
+    "task_id": "B0851Y9BDC",
+    "instruction": "Find me heavy duty china cabinets with stainless steel",
+    "instruction_attributes": [
+      "heavy duty",
+      "stainless steel"
+    ]
+  }
+]

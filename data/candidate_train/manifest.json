@@ -1,0 +1,29 @@
+{
+  "seed": 20261007,
+  "sampling": {
+    "type": "deterministic_stratified_reservoir",
+    "targets": 415,
+    "distractors": 585,
+    "total_products": 1000
+  },
+  "counts": {
+    "products": 1000,
+    "attributes": 1000,
+    "tasks": 415,
+    "instruction_bearing_products": 415
+  },
+  "source_pool": {
+    "eligible_instruction_products": 528692,
+    "eligible_non_instruction_products": 651744
+  },
+  "overlap": {
+    "with_webshop_small": 0,
+    "with_eval_415": 0,
+    "target_with_eval_415": 0
+  },
+  "files": {
+    "items_shuffle_candidate_train_1000.json": "247a532bb11f2e0562c0b9fc0a7de6e155f0b6545015ad61f842b28851a280fe",
+    "items_ins_v2_candidate_train_1000.json": "9a962bf1d79f1d619483de49e3faef67869764bf86897b2756c0fda292056bdf",
+    "webshop_candidate_train_415.json": "c2c555be373ad718bd63be322601534ca37323d00503e51db8db6e4b9ee5a4b0"
+  }
+}

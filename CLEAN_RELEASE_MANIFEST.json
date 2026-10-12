@@ -1,0 +1,47 @@
+{
+  "release_name": "Constraint_Aware_WebShop_no_threshold_final",
+  "candidate_policy": {
+    "intervention": "repeat-only",
+    "minimum_numeric_threshold": null,
+    "hard_contradiction_veto": true,
+    "selection": "highest-scoring safe unvisited visible candidate"
+  },
+  "candidate_score": {
+    "formula": "w_type * type_score + w_req * requirement_score",
+    "status_scores": {
+      "SUPPORTED": 1.0,
+      "LIKELY_SUPPORTED": 0.75,
+      "UNKNOWN": 0.35,
+      "CONTRADICTED": 0.0
+    }
+  },
+  "evaluation": {
+    "products": 1000,
+    "tasks": 415,
+    "products_file": "data/items_shuffle_1000.json",
+    "attributes_file": "data/items_ins_v2_1000.json",
+    "task_file": "data/eval/webshop_415.json",
+    "search_index": "search_engine/indexes_1k"
+  },
+  "candidate_training_target": {
+    "products": 1000,
+    "instruction_targets": 415,
+    "distractors": 585,
+    "overlap_with_webshop_small": 0,
+    "overlap_with_eval_targets": 0,
+    "products_file": "data/candidate_train/items_shuffle_candidate_train_1000.json",
+    "attributes_file": "data/candidate_train/items_ins_v2_candidate_train_1000.json",
+    "task_file": "data/candidate_train/webshop_candidate_train_415.json",
+    "search_index": "data/candidate_train/search_index"
+  },
+  "excluded_from_release": [
+    "results",
+    "logs",
+    "archive",
+    "repeated_runs",
+    "backups",
+    "presentation bundles",
+    "raw full WebShop data"
+  ],
+  "runner": "evaluation/run_experiment.py"
+}
